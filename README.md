@@ -1,5 +1,5 @@
 # Product Question and Answer Pro Extension for the Magento 2
-There are very much other questions related to a product, that the customer would like to ask before deciding should or should not to buy that item, so if your store provides a feature that allows the customer to write their questions on the product detail page, then the administrator gets the question and writes the answer, that will be very great. This extension will help to improve the quality of service in your storefront. Let's know what this extension is supporting we move to the features of this extension.
+There are very much other questions related to a product, that the customer would like to ask before deciding should or should not to buy that item, so if your store provides a feature that allows the customer to write their questions on the product detail page, then the administrator gets the question and writes the answer, that will be very great. This extension will help to do that and improve the quality of service in your storefront. Let's know what this extension is supporting we move to the features of this extension.
 
 ## The features list of the Product Questions Pro Extension:
 
@@ -9,13 +9,13 @@ There are very much other questions related to a product, that the customer woul
  + Allow the Guest or the Customer to write their question or write their answer on the product detail page.
  + Allow the Customer to write their answer on the My Product Questions page.
  + Allow the Customer see all their questions and answers on the My Product Questions page.
- + Allow the Customer or the Guest to get an email notification when an answer is posted by the administrator.
- + Supported for displaying on multiple stores view and websites.
+ + **Allow the Customer or the Guest to get an email notification when an answer is posted by the administrator.**
+ + **Supported for displaying on multiple stores view and websites.**
 
 ### - On the Backend:
- + Allow the administrator to get an email notification when a question or an answer is posted by the Customer or the Guest.
- + Allow the administrator to manage the questions and the answers.
- + Allow the administrator to update the configurations for this extension.
+ + **Allow the administrator to get an email notification when a question or an answer is posted by the Customer or the Guest.**
+ + **Allow the administrator to manage the questions and the answers.**
+ + **Allow the administrator to update the configurations for this extension.**
 
 ## How to install or upgrade this extension?
  + Before installing this extension, make sure that you have installed the PHPCuong_Core module, If you don't install this module yet, please install it by running the command line: **composer require php-cuong/magento2-module-core**
@@ -49,9 +49,9 @@ There are very much other questions related to a product, that the customer woul
 ## What you will get when purchasing this extension?
 - There are no license keys:
     + At this moment, there is no license keys. I do not use license checking method to check the license validity. My extensions is 100% open editable source. You can make any change to suit your needs but I won’t take any responsibility for any occurred incident due to your customization.
-- You will get all the versions of this extension.
-- You will get free lifetime support.
-- You will get free lifetime update.
+- **You will get all the versions of this extension.**
+- **You will get free lifetime support.**
+- **You will get free lifetime update.**
 
 ## Some of the screenshot of this extension
 
