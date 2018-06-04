@@ -58,39 +58,39 @@ There are very much other questions related to a product, that the customer woul
 ### - On the Storefront:
 
 ![ScreenShot](https://github.com/php-cuong/magento2-product-question-and-answer-pro/blob/master/Screenshot/the-guest-write-a-new-question.png)
-*The interface used for the Guest posts a new question*
+#### *The interface used for the Guest posts a new question*
 
 ![ScreenShot](https://github.com/php-cuong/magento2-product-question-and-answer-pro/blob/master/Screenshot/the-guest-write-a-new-question-2.png)
-*The interface used for the Guest posts a new question after updating the name and email*
+#### *The interface used for the Guest posts a new question after updating the name and email*
 
 ![ScreenShot](https://github.com/php-cuong/magento2-product-question-and-answer-pro/blob/master/Screenshot/the-customer-write-a-new-question.png)
-*The interface used for the Customer posts a new question*
+#### *The interface used for the Customer posts a new question*
 
 ![ScreenShot](https://github.com/php-cuong/magento2-product-question-and-answer-pro/blob/master/Screenshot/the-guest-writes-an-answer.png)
-*The interface used for the Guest posts a new answer*
+#### *The interface used for the Guest posts a new answer*
 
 ![ScreenShot](https://github.com/php-cuong/magento2-product-question-and-answer-pro/blob/master/Screenshot/filtering-the-results-by-asker-name.png)
-*The interface used for the Guest or Customer filter results by asker's name*
+#### *The interface used for the Guest or Customer filter results by asker's name*
 
 ![ScreenShot](https://github.com/php-cuong/magento2-product-question-and-answer-pro/blob/master/Screenshot/the-guest-edit-the-sender-information.png)
-*The Guest can update the sender information*
+#### *The Guest can update the sender information*
 
 ![ScreenShot](https://github.com/php-cuong/magento2-product-question-and-answer-pro/blob/master/Screenshot/the-customer-or-guest-get-an-email-notification-from-administrator.png)
-*The content of email that the Guest or Customer will get when the administrator posted a new answer*
+#### *The content of email that the Guest or Customer will get when the administrator posted a new answer*
 
 ### - On the Backend:
 
 ![ScreenShot](https://github.com/php-cuong/magento2-product-question-and-answer-pro/blob/master/Screenshot/the-administrator-get-an-email-notification-when-the-guest-or-customer-posted-a-new-question.png)
-*The content of email that the administrator will get when the Guest or Customer posted a new question*
+#### *The content of email that the administrator will get when the Guest or Customer posted a new question*
 
 ![ScreenShot](https://github.com/php-cuong/magento2-product-question-and-answer-pro/blob/master/Screenshot/the-administrator-gets-an-email-notification-when-the-guest-or-customer-posted-an-new-answer.png)
-*The content of email that the administrator will get when the Guest or Customer posted a new answer*
+#### *The content of email that the administrator will get when the Guest or Customer posted a new answer*
 
 ![ScreenShot](https://github.com/php-cuong/magento2-product-question-and-answer-pro/blob/master/Screenshot/the-administrator-can-manage-the-questions.png)
-*The administrator can manage the questions*
+#### *The administrator can manage the questions*
 
 ![ScreenShot](https://github.com/php-cuong/magento2-product-question-and-answer-pro/blob/master/Screenshot/the-administrator-can-manage-the-answers.png)
-*The administrator can manage the answers*
+#### *The administrator can manage the answers*
 
 ![ScreenShot](https://github.com/php-cuong/magento2-product-question-and-answer-pro/blob/master/Screenshot/the-administrator-can-update-the-configurations.png)
-*The administrator can update the configurations*
+#### *The administrator can update the configurations*
