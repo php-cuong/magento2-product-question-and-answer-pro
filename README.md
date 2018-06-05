@@ -1,7 +1,7 @@
 # Product Question and Answer Pro Extension for the Magento 2
 There are very much other questions related to a product, that the customer would like to ask before deciding should or should not to buy that item, so if your store provides a feature that allows the customer to write their questions on the product detail page, then the administrator gets the question and writes the answer, that will be very great. This extension will help to do that and improve the quality of service in your storefront. Let's know what this extension is supporting we move to the features of this extension.
 
-## The features list of the Product Questions Pro Extension:
+## The features list of this extension:
 
 ### - On the Storefront:
  + Display the questions and the answers to a question on the product detail page.
