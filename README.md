@@ -21,7 +21,7 @@ There are very much other questions related to a product, that the customer woul
  + Before installing this extension, make sure that you have installed the PHPCuong_Core module, If you don't install this module yet, please install it by running the command line: **composer require php-cuong/magento2-module-core**
  + Go to the link where saving the versions of this extension, don't worry you will get the link after purchasing this extension successfully.
  + Download the latest version of this extension, the file has the format same as PHPCuong_ProductQuestionAndAnswer.x.x.x.zip, with the x.x.x will be replaced by the version of this extension.
- + Decompress the file that you downloaded, you will be required to enter the password, we will got the password when you purchased this extension successfully.
+ + Decompress the file that you downloaded
  + Copy the folder named app to the root folder of your website.
  + Under the root of your website, please run the command lines bellowing:
     - php bin/magento setup:upgrade
