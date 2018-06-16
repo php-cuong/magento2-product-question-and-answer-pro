@@ -82,10 +82,6 @@ There are very much other questions related to a product, that the customer woul
 ![ScreenShot](https://github.com/php-cuong/magento2-product-question-and-answer-pro/blob/master/Screenshot/the-administrator-can-update-the-configurations.png)
 #### *The administrator can update the configurations*
 
-## See the video introduction the features of this extension
-- On Youtube: https://www.youtube.com/watch?v=H9H0ZcBUxLA
-- On the facebook: https://www.facebook.com/giaphugroupcom/videos/2057764757779405/
-
 ## How to purchase this extension?
 - This extension is created by **Cuong Ngo** with the nickname called **PHPCuong**. So please contact with me via the skype: **cuongnq87** or the fanpage **https://www.facebook.com/giaphugroupcom**
 - You will be required to send the payment via PayPal (Non-Vietnam).
@@ -98,3 +94,7 @@ There are very much other questions related to a product, that the customer woul
 - **You will get all the versions of this extension.**
 - **You will get free lifetime support.**
 - **You will get free lifetime update.**
+
+## See the video introduction the features of this extension
+- On Youtube: https://www.youtube.com/watch?v=H9H0ZcBUxLA
+- On the facebook: https://www.facebook.com/giaphugroupcom/videos/2057764757779405/
