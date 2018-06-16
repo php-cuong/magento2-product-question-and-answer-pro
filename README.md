@@ -94,3 +94,7 @@ There are very much other questions related to a product, that the customer woul
 
 ![ScreenShot](https://github.com/php-cuong/magento2-product-question-and-answer-pro/blob/master/Screenshot/the-administrator-can-update-the-configurations.png)
 #### *The administrator can update the configurations*
+
+## See the video introduction the features of this extension
+- On Youtube: https://www.youtube.com/watch?v=H9H0ZcBUxLA
+- On the facebook: https://www.facebook.com/giaphugroupcom/videos/2057764757779405/
