@@ -97,5 +97,5 @@ There are very much other questions related to a product, that the customer woul
 - **You will get free lifetime update.**
 
 ## See the video introduction the features of this extension
-- On the Youtube: https://www.youtube.com/watch?v=H9H0ZcBUxLA
+- On the Youtube: https://www.youtube.com/watch?v=H9H0ZcBUxLA&index=2&list=PL98CDCbI3TNslCicN4cJyR4_hBXR1clhW
 - On the facebook: https://www.facebook.com/giaphugroupcom/videos/2057764757779405/
