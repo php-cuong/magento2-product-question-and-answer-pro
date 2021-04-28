@@ -84,10 +84,7 @@ There are very much other questions related to a product, that the customer woul
 ![ScreenShot](https://github.com/php-cuong/magento2-product-question-and-answer-pro/blob/master/Screenshot/the-administrator-can-update-the-configurations.png)
 
 ## How to purchase this extension?
-- This extension is created by **Cuong Ngo** with the nickname called **PHPCuong**. So please contact with me via the skype: **cuongnq87** or the fanpage **https://www.facebook.com/giaphugroupcom**
-- You will be required to send the payment via PayPal (Non-Vietnam).
-- You will be required to provide an email using Gmail.
-- After I get the payment, I will send you the link where saving the versions of this extension on the Google Drive.
+- This professional version of this extension link https://www.giaphugroup.com/magento-2-product-question-and-answer-extension.html
 
 ## What you will get when purchasing this extension?
 - There are no license keys:
